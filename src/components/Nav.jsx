@@ -7,7 +7,7 @@ export default function Nav() {
 // The Navbar UI component will render each of the Link elements in the links prop
 
   return (
-    <ul className="nav nav-tabs">
+    <ul class="navbar"className="nav nav-tabs">
       <li className="nav-item">
         <Link
           to="/"

@@ -1,12 +1,11 @@
 #root {
-  /* max-width: 1281px; */
   width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
   min-width: 320px;
   background-color: rgb(9, 33, 43);
-  color: rgba(182, 160, 160, 0.926);
+  color: rgba(208, 180, 180, 0.926);
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -31,7 +30,6 @@ body {
   align-items: center;
   align-self: center;
   align-content: center;
-
 }
 
 .portfolio-card-photo{
@@ -46,11 +44,10 @@ body {
   max-width: 70%;
   margin: 0 auto;
   margin-bottom: 20px;
-  
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #668486;
   border-radius: 5px;
-  background-color: #ebf1f3e4;
+  background-color: #4d565a6d;
   align-items: center;
   align-self: center;
 }
@@ -59,3 +56,43 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
+
+
+/* Basic styling for navbar
+.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: #814343;
+  overflow: hidden;
+  color: #668486;
+} */
+
+/* Styling for navbar items */
+.nav-item {
+  float: left;
+}
+
+/* Styling for navbar links */
+.nav-link {
+  display: block;
+  color:rgba(255, 255, 255, 0.87);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color:#4d565a6d;
+
+}
+
+
+/* Styling for navbar links on hover */
+.nav-link:hover {
+  background-color: #ddd;
+  color: black;
+}.navbar{
+  text-decoration: none;
+  color: black;
+  background-color: #8a4040;
+  list-style-type: none;
+}
+
