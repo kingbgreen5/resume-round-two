@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-
-    "build": "npm run build",
+    "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "test": "vitest"
@@ -33,4 +32,3 @@
     "vitest": "^0.30.1"
   }
 }
-   ,
