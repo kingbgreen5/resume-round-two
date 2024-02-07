@@ -1,0 +1,61 @@
+#root {
+  /* max-width: 1281px; */
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  min-width: 320px;
+  background-color: rgb(9, 33, 43);
+  color: rgba(182, 160, 160, 0.926);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+  height: 100vh;
+}
+
+.aboutme-photo{
+  width: 95%;
+  max-width:300px ;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+
+}
+
+.portfolio-card-photo{
+  max-width: 90%;
+  height: auto;
+  align-items: center;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.portfolio-card {
+  max-width: 70%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #ebf1f3e4;
+  align-items: center;
+  align-self: center;
+}
+
+.aboutme{
+  max-width: 1000px;
+  margin: 0 auto;
+}
