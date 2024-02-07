@@ -2,7 +2,7 @@ import PortfolioCard from '../PortfolioCard';
 const portfolioProjectsArray = [
   {
     key: 1,
-    img:"dist/assets/Mars.png",
+    img:"/Mars.png",
     title:'Mars-Rover',
     repoLink:'https://github.com/kingbgreen5/Mars-Rovers',
      deployed:'https://kingbgreen5.github.io/Mars-Rovers/'
@@ -10,21 +10,21 @@ const portfolioProjectsArray = [
 
  {
   key: 2,
-  img:"dist/assets/blog-site.png",
+  img:"blog-site.png",
   title:'Blog-Site',
   repoLink:'https://github.com/kingbgreen5/blog-site',
   deployed: 'https://blog-site-bk-77edcaeea42f.herokuapp.com/'
 },
  {
   key: 3,
-  img:"public/monster-mine.png",
+  img:"/monster-mine.png",
   title:'Monster Mine: Collaborative Project',
    repoLink:'https://github.com/kingbgreen5/Monster-Mineshaft',
   deployed: 'https://cryptic-bastion-38379-0ef3d47a3413.herokuapp.com/'
 },
  {
   key: 4,
-  img:"public/work-day.png",
+  img:"/work-day.png",
   title:'Work-Day-Scheduler',
   repoLink:'https://github.com/kingbgreen5/work-day-schedule',
    deployed: 'https://kingbgreen5.github.io/work-day-schedule/'
