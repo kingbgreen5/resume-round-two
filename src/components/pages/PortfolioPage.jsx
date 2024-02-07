@@ -2,7 +2,7 @@ import PortfolioCard from '../PortfolioCard';
 const portfolioProjectsArray = [
   {
     key: 1,
-    img:"public/Mars.png",
+    img:"dist/assets/Mars.png",
     title:'Mars-Rover',
     repoLink:'https://github.com/kingbgreen5/Mars-Rovers',
      deployed:'https://kingbgreen5.github.io/Mars-Rovers/'
