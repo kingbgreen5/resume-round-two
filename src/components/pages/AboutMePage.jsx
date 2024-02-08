@@ -8,7 +8,7 @@ return(
   <div>
     <br />
 
- <img className="aboutme-photo"  src= "/assets/photo.jpg" alt=""/>
+ <img className="aboutme-photo"  src= "/assets/profilephoto.jpg" alt=""/>
  <br />
  <br />
  <br />
