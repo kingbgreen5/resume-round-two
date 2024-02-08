@@ -1,5 +1,6 @@
 import PortfolioCard from '../PortfolioCard';
-import marsPicture from "/Mars.png";
+
+import marsPicture from "../../../public/Mars.png";
 
 
 const portfolioProjectsArray = [
@@ -13,7 +14,7 @@ const portfolioProjectsArray = [
 
  {
   key: 2,
-  img:"blog-site.png",
+  img:"/assets/blog-site.png",
   title:'Blog-Site',
   repoLink:'https://github.com/kingbgreen5/blog-site',
   deployed: 'https://blog-site-bk-77edcaeea42f.herokuapp.com/'
