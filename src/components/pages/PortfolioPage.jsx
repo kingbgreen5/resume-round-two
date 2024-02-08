@@ -1,7 +1,7 @@
 import PortfolioCard from '../PortfolioCard';
 
-import marsPicture from "../../assets/mars.png";
-import blogPicture from "../../assets/blog-site.png";
+import marsPicture from "/assets/mars.png";
+import blogPicture from "/assets/blog-site.png";
 
 const portfolioProjectsArray = [
   {
