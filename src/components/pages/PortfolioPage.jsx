@@ -1,8 +1,11 @@
 import PortfolioCard from '../PortfolioCard';
+import marsPicture from "/Mars.png";
+
+
 const portfolioProjectsArray = [
   {
     key: 1,
-    img:"/Mars.png",
+    img:marsPicture,
     title:'Mars-Rover',
     repoLink:'https://github.com/kingbgreen5/Mars-Rovers',
      deployed:'https://kingbgreen5.github.io/Mars-Rovers/'
